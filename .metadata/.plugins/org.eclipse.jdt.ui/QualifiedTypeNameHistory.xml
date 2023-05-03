@@ -4,7 +4,6 @@
     <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
-    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="lombok.Getter"/>
     <fullyQualifiedTypeName name="lombok.Setter"/>
@@ -13,4 +12,5 @@
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
 </qualifiedTypeNameHistroy>
