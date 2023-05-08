@@ -7,7 +7,7 @@
 	  insert into person (name ,age, photo) values (#{name },#{age }, #{photo })
 	</insert>
 	
-	<select id="getPersonList" resultType="person.bean.PersonDTO">
+	<select id="getPersonList" resultType="person">
 		select * from person order by seq desc
 	</select>
  </mapper>
